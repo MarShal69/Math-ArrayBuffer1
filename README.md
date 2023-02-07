@@ -1,3 +1,6 @@
+# SI Test demo
+[![Build status](https://ci.appveyor.com/api/projects/status/ntrrejrnyeq95605?svg=true)](https://ci.appveyor.com/project/MarShal69/math-arraybuffer1)
+
 # Домашнее задание к лекции «`Math`, `RegExp`, `ArrayBuffer`»
 
 ### **Важные моменты** 
